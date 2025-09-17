@@ -67,7 +67,8 @@
 
 | Dashboard                               | Event Monitor                           |
 | --------------------------------------- | --------------------------------------- |
-| *Image of the Dashboard tab*            | *Image of the Event Monitor tab*        |
+| *Image of the Event Monitor tab*            | *<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/86f97b0d-691d-4d63-a592-0c0308639568" />
+*        |
 | **VirusTotal Tasks**                    | **Settings**                            |
 | *Image of the VirusTotal Tasks tab*     | *Image of the Settings tab*             |
 
@@ -217,5 +218,6 @@ Contributions are welcome! If you have ideas for new features or improvements, p
 ---
 
 ## License
+
 
 This project is open-source. Feel free to use, modify, and distribute it as you see fit. Please consider providing attribution if you use it in your own projects.
