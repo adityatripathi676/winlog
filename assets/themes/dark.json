@@ -1,0 +1,13 @@
+{
+  "background": "#2E2E2E",
+  "foreground": "#FFFFFF",
+  "button_bg": "#4A4A4A",
+  "button_fg": "#FFFFFF",
+  "entry_bg": "#3C3C3C",
+  "entry_fg": "#FFFFFF",
+  "label_fg": "#FFFFFF",
+  "frame_bg": "#3A3A3A",
+  "highlight_bg": "#5C5C5C",
+  "text_area_bg": "#3C3C3C",
+  "text_area_fg": "#FFFFFF"
+}
